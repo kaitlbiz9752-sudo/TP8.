@@ -49,11 +49,8 @@ npm start
 
 
 
-src/
- ├── App.js
- ├── FetchData.js
- ├── AxiosData.js
- └── index.js
+<img width="609" height="1079" alt="image" src="https://github.com/user-attachments/assets/29d9907c-ded8-4d4d-9673-2df1efd137e0" />
+
 
 ## Étape 1 – Composant avec fetch()
 
